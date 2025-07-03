@@ -28,28 +28,12 @@
 ```bash
 git clone https://github.com/შენი-სახელი/React-final.git
 გადახვიდით საქაღალდეში:
-
-bash
-Copy
-Edit
 cd React-final
 დააყენეთ საჭირო პაკეტები:
-
-bash
-Copy
-Edit
 npm install
 გაიშვით ლოკალური დეველოპერული სერვერი:
-
-bash
-Copy
-Edit
 npm start
 გახსენით ბრაუზერი და გადადით:
-
-arduino
-Copy
-Edit
 http://localhost:3000
 პროექტის სტრუქტურა
 src/components/ — კომპონენტები (Header, SearchBar, WeatherCard, MobileNav)
@@ -77,16 +61,8 @@ src/utils/ — ამქვეყნიური რესურსები (ci
 
 რეაგირება ფანჯრის ზომის ცვლილებაზე (რესპონსივობა)
 
-სქრინშოთები
-
-![Screenshot 2025-07-04 014635](https://github.com/user-attachments/assets/bf16b5f8-5666-4dc4-828d-2ca3ef1eb5fe)
-![Screenshot 2025-07-04 015115](https://github.com/user-attachments/assets/168ef344-9196-4682-b303-4100b8d2e4b3)
-![Screenshot 2025-07-04 015037](https://github.com/user-attachments/assets/71246156-e21b-4003-a47c-4bad3d760ad6)
-![Screenshot 2025-07-04 015002](https://github.com/user-attachments/assets/631f3a45-0c80-4872-9280-85a97fdc8698)
-
-
 
 კონტაქტი
 ავტორი: ნიკოლოზ მჭედლიშვილი
-მეილი: your.email@example.com
+მეილი: nikoloz.mtchedlishvili.1@but.edu.ge
 GitHub: github.com/nikolozi0
