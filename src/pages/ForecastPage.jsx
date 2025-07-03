@@ -12,6 +12,7 @@ const ForecastPage = ({ navigateTo }) => {
   useEffect(() => {
     if (currentWeather) {
       fetchForecast(currentWeather.name).then(setForecast);
+      
     }
   }, [currentWeather]);
 
